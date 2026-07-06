@@ -21,7 +21,7 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 - [MC and DMC Marching Cubes Family](#mc-and-dmc-marching-cubes-family)
 - [DC Single-Dual-Vertex Methods](#dc-single-dual-vertex-methods)
 - [DC Multi-Dual-Vertex Methods](#dc-multi-dual-vertex-methods)
-- [Open-Surface UDF Extensions](#open-surface-udf-extensions)
+- [Beyond DC, Non-Voxel/Grid-based](#beyond-dc-non-voxelgrid-based)
 - [Field-Free DC-Like Structured Representations](#field-free-dc-like-structured-representations)
 - [Contributing](#contributing)
 
@@ -85,7 +85,7 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/KAIST-Visual-AI-Group/ODC.svg?style=social" alt="Stars">
    </a>
 
-#### Open-Surface UDF Extensions
+#### Beyond DC, Non-Voxel/Grid-based
 
 1. [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Distilling_Unsigned_Distance_Function_for_Surface_Reconstruction_from_3D_Gaussian_CVPR_2026_paper.html) - **CVPR 2026** | input = 3D Gaussian Splatting -> continuous UDF
 
