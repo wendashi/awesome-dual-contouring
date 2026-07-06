@@ -29,9 +29,9 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 
 ### Classical Foundations
 
-1. [Marching Cubes: A High Resolution 3D Surface Construction Algorithm](https://doi.org/10.1145/37402.37422) - **SIGGRAPH 1987** | input = discrete SDF / scalar field
+1. [Marching Cubes: A High Resolution 3D Surface Construction Algorithm](https://doi.org/10.1145/37402.37422) - **SIGGRAPH 1987** | input = discrete SDF / scalar field | [YouTube tutorial](https://www.youtube.com/watch?v=M3iI2l0ltbE&t=143s)
 
-2. [Dual Contouring of Hermite Data](https://doi.org/10.1145/566570.566586) - **SIGGRAPH 2002** | input = Hermite data from SDF / scalar field
+2. [Dual Contouring of Hermite Data](https://doi.org/10.1145/566570.566586) - **SIGGRAPH 2002** | input = Hermite data from SDF / scalar field | [YouTube tutorial](https://www.youtube.com/watch?v=B_5VBtpVuLQ)
 
 3. [Dual Marching Cubes: Primal Contouring of Dual Grids](https://doi.org/10.1111/j.1467-8659.2005.00843.x) - **VIS 2004 / Computer Graphics Forum** | input = discrete SDF / scalar field on dual grids
 
