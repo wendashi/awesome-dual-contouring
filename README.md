@@ -1,6 +1,18 @@
 # Awesome Dual Contouring
 
+[![Cool](https://awesome.re/badge.svg)](https://awesome.re)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wendashi/awesome-dual-contouring/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-dual-contouring)
+
 Learn Dual Contouring. Build it. Go beyond it.
+
+<details>
+  <summary>Change Log</summary>
+
+  - 2026-06, SIGGRAPH/ECCV 2026 DC-related papers are updated.
+  - 2026-07, monthly DC / contouring literature monitor is added.
+</details>
 
 <p align="center">
   <img src="figs/awesome-DC-0.png" alt="Implicit 3D representations and surface extraction overview" width="100%">
