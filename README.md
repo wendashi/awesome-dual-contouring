@@ -29,13 +29,13 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 
 ### Classical Foundations
 
-1. [Marching Cubes: A High Resolution 3D Surface Construction Algorithm](https://doi.org/10.1145/37402.37422) - **SIGGRAPH 1987** | input = discrete SDF / scalar field | Code: widely implemented
+1. [Marching Cubes: A High Resolution 3D Surface Construction Algorithm](https://doi.org/10.1145/37402.37422) - **SIGGRAPH 1987** | input = discrete SDF / scalar field
 
-2. [Dual Contouring of Hermite Data](https://doi.org/10.1145/566570.566586) - **SIGGRAPH 2002** | input = Hermite data from SDF / scalar field | Code: not official
+2. [Dual Contouring of Hermite Data](https://doi.org/10.1145/566570.566586) - **SIGGRAPH 2002** | input = Hermite data from SDF / scalar field
 
-3. [Dual Marching Cubes: Primal Contouring of Dual Grids](https://doi.org/10.1111/j.1467-8659.2005.00843.x) - **VIS 2004 / Computer Graphics Forum** | input = discrete SDF / scalar field on dual grids | Code: not official
+3. [Dual Marching Cubes: Primal Contouring of Dual Grids](https://doi.org/10.1111/j.1467-8659.2005.00843.x) - **VIS 2004 / Computer Graphics Forum** | input = discrete SDF / scalar field on dual grids
 
-4. [Manifold Dual Contouring](https://doi.org/10.1109/TVCG.2007.1012) - **TVCG 2007** | input = SDF / implicit field + Hermite data | Code: not official
+4. [Manifold Dual Contouring](https://doi.org/10.1109/TVCG.2007.1012) - **TVCG 2007** | input = SDF / implicit field + Hermite data
 
 ### DC: Single-Dual-Vertex Methods
 
@@ -44,16 +44,22 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/czq142857/NDC.svg?style=social" alt="Stars">
    </a>
 
-2. [Surface Extraction from Neural Unsigned Distance Fields](https://arxiv.org/abs/2309.08878) - **ICCV 2023** | input = continuous neural UDF | Code: not found
+2. [Surface Extraction from Neural Unsigned Distance Fields](https://arxiv.org/abs/2309.08878) - **ICCV 2023** | input = continuous neural UDF | [Code](https://github.com/cong-yi/DualMesh-UDF)
+   <a href="https://github.com/cong-yi/DualMesh-UDF" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/cong-yi/DualMesh-UDF.svg?style=social" alt="Stars">
+   </a>
 
 3. [Robust Zero Level-Set Extraction from Unsigned Distance Fields Based on Double Covering](https://arxiv.org/abs/2310.03431) - **SIGGRAPH Asia / TOG 2023** | input = continuous UDF | [Code](https://github.com/jjjkkyz/DCUDF)
    <a href="https://github.com/jjjkkyz/DCUDF" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/jjjkkyz/DCUDF.svg?style=social" alt="Stars">
    </a>
 
-4. [Dual Contouring of Signed Distance Data](https://arxiv.org/abs/2604.00157) - **SIGGRAPH 2026** | input = discrete SDF | Code: not released
+4. [Dual Contouring of Signed Distance Data](https://arxiv.org/abs/2604.00157) - **SIGGRAPH 2026** | input = discrete SDF
 
-5. [Dual Contouring over Expanded Cubes (DCx) for Zero-Level Set Extraction from Neural Unsigned Distance Functions](https://s2026.conference-schedule.org/presentation/?id=papers_1461&sess=sess146) - **SIGGRAPH 2026** | input = continuous neural UDF | Code: not released
+5. [Dual Contouring over Expanded Cubes (DCx) for Zero-Level Set Extraction from Neural Unsigned Distance Functions](https://s2026.conference-schedule.org/presentation/?id=papers_1461&sess=sess146) - **SIGGRAPH 2026** | input = continuous neural UDF | [Code](https://github.com/jjjkkyz/DCx)
+   <a href="https://github.com/jjjkkyz/DCx" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/jjjkkyz/DCx.svg?style=social" alt="Stars">
+   </a>
 
 ### DC: Multi-Dual-Vertex Methods
 
@@ -64,7 +70,10 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 
 ### MC / DMC / Differentiable Isosurfacing
 
-1. [MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks](https://arxiv.org/abs/2111.14549) - **ECCV 2022** | input = continuous neural UDF | Code: not found
+1. [MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks](https://arxiv.org/abs/2111.14549) - **ECCV 2022** | input = continuous neural UDF | [Code](https://github.com/cvlab-epfl/MeshUDF)
+   <a href="https://github.com/cvlab-epfl/MeshUDF" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/cvlab-epfl/MeshUDF.svg?style=social" alt="Stars">
+   </a>
 
 2. [Flexible Isosurface Extraction for Gradient-Based Mesh Optimization](https://arxiv.org/abs/2308.05371) - **SIGGRAPH / TOG 2023** | input = optimizable SDF / scalar field + FlexiCubes parameters | [Code](https://github.com/nv-tlabs/FlexiCubes)
    <a href="https://github.com/nv-tlabs/FlexiCubes" title="GitHub Repo">
@@ -83,15 +92,18 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
    </a>
 
-2. [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](https://arxiv.org/abs/2511.04029) - **CVPR 2026 Oral** | input = field-free sparse voxel mesh representation | Code: not released
+2. [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](https://arxiv.org/abs/2511.04029) - **CVPR 2026 Oral** | input = field-free sparse voxel mesh representation | [Code](https://github.com/Luo-Yihao/FaithC)
+   <a href="https://github.com/Luo-Yihao/FaithC" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/Luo-Yihao/FaithC.svg?style=social" alt="Stars">
+   </a>
 
 ### Open-Surface UDF Reconstruction
 
-1. [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Distilling_Unsigned_Distance_Function_for_Surface_Reconstruction_from_3D_Gaussian_CVPR_2026_paper.html) - **CVPR 2026** | input = 3D Gaussian Splatting -> continuous UDF | Code: not found
+1. [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Distilling_Unsigned_Distance_Function_for_Surface_Reconstruction_from_3D_Gaussian_CVPR_2026_paper.html) - **CVPR 2026** | input = 3D Gaussian Splatting -> continuous UDF
 
-2. [SpUDD: Superpower Contouring of Unsigned Distance Data](https://arxiv.org/abs/2604.19568) - **arXiv 2026** | input = discrete UDF | Code: not released
+2. [SpUDD: Superpower Contouring of Unsigned Distance Data](https://arxiv.org/abs/2604.19568) - **arXiv 2026** | input = discrete UDF
 
-3. [VoroUDF: Meshing Unsigned Distance Fields with Voronoi Optimization](https://arxiv.org/abs/2602.02907) - **arXiv 2026** | input = continuous UDF | Code: not released
+3. [VoroUDF: Meshing Unsigned Distance Fields with Voronoi Optimization](https://arxiv.org/abs/2602.02907) - **arXiv 2026** | input = continuous UDF
 
 ## Contributing
 
