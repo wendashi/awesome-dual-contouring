@@ -2,14 +2,14 @@
 
 Learn Dual Contouring. Build it. Go beyond it.
 
+<p align="center">
+  <img src="figs/awesome-DC-0.png" alt="Implicit 3D representations and surface extraction overview" width="100%">
+</p>
+
 ## Dual Contouring Related Research Map
 
 <p align="center">
   <img src="figs/awesome-DC-1.png" alt="Dual Contouring related research map" width="100%">
-</p>
-
-<p align="center">
-  <img src="figs/awesome-DC-0.png" alt="Implicit 3D representations and surface extraction overview" width="100%">
 </p>
 
 This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, UDF, occupancy fields, sparse voxel representations, and field-free mesh/dual-grid pipelines.
