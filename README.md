@@ -115,9 +115,9 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 
 ### Field-Free DC-Like Structured Representations
 
-1. [TRELLIS.2: Native and Compact Structured Latents for 3D Generation](https://microsoft.github.io/TRELLIS.2/) - **CVPR 2026 Oral** | input = field-free mesh surface x voxel / dual-grid intersections | [Paper](https://arxiv.org/abs/2512.14692) | [Code](https://github.com/microsoft/TRELLIS)
-   <a href="https://github.com/microsoft/TRELLIS" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.svg?style=social" alt="Stars">
+1. [TRELLIS.2: Native and Compact Structured Latents for 3D Generation](https://microsoft.github.io/TRELLIS.2/) - **CVPR 2026 Oral** | input = field-free mesh surface x voxel / dual-grid intersections | [Paper](https://arxiv.org/abs/2512.14692) | [Code](https://github.com/microsoft/TRELLIS.2)
+   <a href="https://github.com/microsoft/TRELLIS.2" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/microsoft/TRELLIS.2.svg?style=social" alt="Stars">
    </a>
 
 2. [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](https://arxiv.org/abs/2511.04029) - **CVPR 2026 Oral** | input = field-free sparse voxel mesh representation | [Code](https://github.com/Luo-Yihao/FaithC)
