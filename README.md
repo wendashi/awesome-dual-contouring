@@ -100,11 +100,9 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 
 #### Beyond DC, Non-Voxel/Grid-based
 
-1. [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Distilling_Unsigned_Distance_Function_for_Surface_Reconstruction_from_3D_Gaussian_CVPR_2026_paper.html) - **CVPR 2026** | input = 3D Gaussian Splatting -> continuous UDF
+1. [SpUDD: Superpower Contouring of Unsigned Distance Data](https://arxiv.org/abs/2604.19568) - **arXiv 2026** | input = discrete UDF
 
-2. [SpUDD: Superpower Contouring of Unsigned Distance Data](https://arxiv.org/abs/2604.19568) - **arXiv 2026** | input = discrete UDF
-
-3. [VoroUDF: Meshing Unsigned Distance Fields with Voronoi Optimization](https://arxiv.org/abs/2602.02907) - **arXiv 2026** | input = continuous UDF
+2. [VoroUDF: Meshing Unsigned Distance Fields with Voronoi Optimization](https://arxiv.org/abs/2602.02907) - **arXiv 2026** | input = continuous UDF
 
 ### Field-Free DC-Like Structured Representations
 
