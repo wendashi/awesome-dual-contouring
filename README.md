@@ -17,12 +17,12 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 ## Contents
 
 - [Research & Academic Projects](#-research--academic-projects)
-- [Field-Based SDF and UDF](#field-based-sdf-and-udf)
-- [MC and DMC Marching Cubes Family](#mc-and-dmc-marching-cubes-family)
-- [DC Single-Dual-Vertex Methods](#dc-single-dual-vertex-methods)
-- [DC Multi-Dual-Vertex Methods](#dc-multi-dual-vertex-methods)
-- [Beyond DC, Non-Voxel/Grid-based](#beyond-dc-non-voxelgrid-based)
-- [Field-Free DC-Like Structured Representations](#field-free-dc-like-structured-representations)
+  - [Field-Based SDF and UDF](#field-based-sdf-and-udf)
+    - [MC and DMC Marching Cubes Family](#mc-and-dmc-marching-cubes-family)
+    - [DC Single-Dual-Vertex Methods](#dc-single-dual-vertex-methods)
+    - [DC Multi-Dual-Vertex Methods](#dc-multi-dual-vertex-methods)
+    - [Beyond DC, Non-Voxel/Grid-based](#beyond-dc-non-voxelgrid-based)
+  - [Field-Free DC-Like Structured Representations](#field-free-dc-like-structured-representations)
 - [Contributing](#contributing)
 
 ## 🔬 Research & Academic Projects
