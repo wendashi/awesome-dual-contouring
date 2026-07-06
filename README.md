@@ -10,7 +10,7 @@ Learn Dual Contouring. Build it. Go beyond it.
 <details>
   <summary>Change Log</summary>
 
-  - 2026-06, SIGGRAPH/ECCV 2026 DC-related papers are updated.
+  - 2026-06, initial DC-related paper list is curated.
   - 2026-07, monthly DC / contouring literature monitor is added.
 </details>
 
