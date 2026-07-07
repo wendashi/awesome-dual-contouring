@@ -71,31 +71,31 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/czq142857/NDC.svg?style=social" alt="Stars">
    </a>
 
-3. [Self-Supervised Dual Contouring](https://arxiv.org/abs/2405.18131) - **arXiv 2024** | input = SDF / neural implicit SDF | [Code](https://github.com/Sentient07/SDC)
-   <a href="https://github.com/Sentient07/SDC" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/Sentient07/SDC.svg?style=social" alt="Stars">
-   </a>
-
-4. [Surface Extraction from Neural Unsigned Distance Fields](https://arxiv.org/abs/2309.08878) - **ICCV 2023** | input = continuous neural UDF | [Code](https://github.com/cong-yi/DualMesh-UDF)
+3. [Surface Extraction from Neural Unsigned Distance Fields](https://arxiv.org/abs/2309.08878) - **ICCV 2023** | input = continuous neural UDF | [Code](https://github.com/cong-yi/DualMesh-UDF)
    <a href="https://github.com/cong-yi/DualMesh-UDF" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/cong-yi/DualMesh-UDF.svg?style=social" alt="Stars">
    </a>
 
-5. [Robust Zero Level-Set Extraction from Unsigned Distance Fields Based on Double Covering](https://arxiv.org/abs/2310.03431) - **SIGGRAPH Asia / TOG 2023** | input = continuous UDF | [Code](https://github.com/jjjkkyz/DCUDF)
+4. [Robust Zero Level-Set Extraction from Unsigned Distance Fields Based on Double Covering](https://arxiv.org/abs/2310.03431) - **SIGGRAPH Asia / TOG 2023** | input = continuous UDF | [Code](https://github.com/jjjkkyz/DCUDF)
    <a href="https://github.com/jjjkkyz/DCUDF" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/jjjkkyz/DCUDF.svg?style=social" alt="Stars">
    </a>
 
-6. [Dual Contouring of Signed Distance Data](https://arxiv.org/abs/2604.00157) - **SIGGRAPH 2026** | input = discrete SDF
-
-7. [Dual Contouring over Expanded Cubes (DCx) for Zero-Level Set Extraction from Neural Unsigned Distance Functions](https://s2026.conference-schedule.org/presentation/?id=papers_1461&sess=sess146) - **SIGGRAPH 2026** | input = continuous neural UDF | [Code](https://github.com/jjjkkyz/DCx)
-   <a href="https://github.com/jjjkkyz/DCx" title="GitHub Repo">
-     <img src="https://img.shields.io/github/stars/jjjkkyz/DCx.svg?style=social" alt="Stars">
+5. [Self-Supervised Dual Contouring](https://arxiv.org/abs/2405.18131) - **CVPR 2024 Highlight** | input = SDF / neural implicit SDF | [Code](https://github.com/Sentient07/SDC)
+   <a href="https://github.com/Sentient07/SDC" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/Sentient07/SDC.svg?style=social" alt="Stars">
    </a>
 
-8. [GenUDC: High Quality 3D Mesh Generation with Unsigned Dual Contouring Representation](https://arxiv.org/abs/2410.17802) - **ACMMM 2024** | input = UDF -> UDC grid representation | [Code](https://github.com/TrepangCat/GenUDC)
+6. [GenUDC: High Quality 3D Mesh Generation with Unsigned Dual Contouring Representation](https://arxiv.org/abs/2410.17802) - **ACMMM 2024** | input = UDF -> UDC grid representation | [Code](https://github.com/TrepangCat/GenUDC)
    <a href="https://github.com/TrepangCat/GenUDC" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/TrepangCat/GenUDC.svg?style=social" alt="Stars">
+   </a>
+
+7. [Dual Contouring of Signed Distance Data](https://arxiv.org/abs/2604.00157) - **SIGGRAPH 2026** | input = discrete SDF
+
+8. [Dual Contouring over Expanded Cubes (DCx) for Zero-Level Set Extraction from Neural Unsigned Distance Functions](https://s2026.conference-schedule.org/presentation/?id=papers_1461&sess=sess146) - **SIGGRAPH 2026** | input = continuous neural UDF | [Code](https://github.com/jjjkkyz/DCx)
+   <a href="https://github.com/jjjkkyz/DCx" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/jjjkkyz/DCx.svg?style=social" alt="Stars">
    </a>
 
 #### DC Multi-Dual-Vertex Methods
