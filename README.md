@@ -62,6 +62,11 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
    </a>
 
+6. [MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction](https://proceedings.neurips.cc/paper_files/paper/2025/file/ae3ebc8b02ffe3a5b6bd46af5c4aba59-Paper-Conference.pdf) - **NeurIPS 2025** | input = continuous UDF / learned UDF | extraction = material interface + multi-labeled Marching Cubes | [Code](https://github.com/jjjkkyz/MIND)
+   <a href="https://github.com/jjjkkyz/MIND" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/jjjkkyz/MIND.svg?style=social" alt="Stars">
+   </a>
+
 #### DC Single-Dual-Vertex Methods
 
 1. [Dual Contouring of Hermite Data](https://doi.org/10.1145/566570.566586) - **SIGGRAPH / TOG 2002** | input = Hermite data from SDF / scalar field | [YouTube tutorial](https://www.youtube.com/watch?v=B_5VBtpVuLQ)
