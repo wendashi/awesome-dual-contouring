@@ -57,12 +57,16 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/nv-tlabs/FlexiCubes.svg?style=social" alt="Stars">
    </a>
 
-5. [SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling](https://arxiv.org/abs/2503.21732) - **ICCV 2025 Oral** | input = sparse voxelized SDF / scalar field + SparseFlex parameters | [Project](https://xianglonghe.github.io/TripoSF) | [Code](https://github.com/VAST-AI-Research/TripoSF)
+5. [Subgrid Marching Tetrahedra](https://doi.org/10.1145/3811358) - **SIGGRAPH / TOG 2026** | input = discrete SDF / scalar field + tetrahedral grid | [Project](https://www.cs.cmu.edu/~kmcrane/Projects/SubgridMarching/index.html)
+
+6. [SuperSDF: Sparse SDF Super-Resolution for Surface Extraction](https://doi.org/10.1145/3799902.3811176) - **SIGGRAPH / TOG 2026** | input = sparse SDF grid / scalar field | [Schedule](https://s2026.conference-schedule.org/presentation/?id=papers_1060&sess=sess146)
+
+7. [SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling](https://arxiv.org/abs/2503.21732) - **ICCV 2025 Oral** | input = sparse voxelized SDF / scalar field + SparseFlex parameters | [Project](https://xianglonghe.github.io/TripoSF) | [Code](https://github.com/VAST-AI-Research/TripoSF)
    <a href="https://github.com/VAST-AI-Research/TripoSF" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/VAST-AI-Research/TripoSF.svg?style=social" alt="Stars">
    </a>
 
-6. [MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction](https://proceedings.neurips.cc/paper_files/paper/2025/file/ae3ebc8b02ffe3a5b6bd46af5c4aba59-Paper-Conference.pdf) - **NeurIPS 2025** | input = continuous UDF / learned UDF | extraction = material interface + multi-labeled Marching Cubes | [Code](https://github.com/jjjkkyz/MIND)
+8. [MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction](https://proceedings.neurips.cc/paper_files/paper/2025/file/ae3ebc8b02ffe3a5b6bd46af5c4aba59-Paper-Conference.pdf) - **NeurIPS 2025** | input = continuous UDF / learned UDF | extraction = material interface + multi-labeled Marching Cubes | [Code](https://github.com/jjjkkyz/MIND)
    <a href="https://github.com/jjjkkyz/MIND" title="GitHub Repo">
      <img src="https://img.shields.io/github/stars/jjjkkyz/MIND.svg?style=social" alt="Stars">
    </a>
@@ -117,6 +121,11 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
 1. [SpUDD: Superpower Contouring of Unsigned Distance Data](https://arxiv.org/abs/2604.19568) - **arXiv 2026** | input = discrete UDF
 
 2. [VoroUDF: Meshing Unsigned Distance Fields with Voronoi Optimization](https://arxiv.org/abs/2602.02907) - **arXiv 2026** | input = continuous UDF
+
+3. [DCCVT: Differentiable Clipped Centroidal Voronoi Tessellation](https://arxiv.org/abs/2601.13603) - **3DV 2026** | input = noisy SDF | extraction = clipped centroidal Voronoi tessellation | [Project](https://wylliamcantincharawi.dev/DCCVT.github.io/) | [Code](https://github.com/tiwylli/DCCVT)
+   <a href="https://github.com/tiwylli/DCCVT" title="GitHub Repo">
+     <img src="https://img.shields.io/github/stars/tiwylli/DCCVT.svg?style=social" alt="Stars">
+   </a>
 
 ### Field-Free DC-Like Structured Representations
 
