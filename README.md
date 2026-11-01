@@ -128,6 +128,8 @@ This repo tracks Dual Contouring and nearby surface-extraction methods for SDF, 
      <img src="https://img.shields.io/github/stars/tiwylli/DCCVT.svg?style=social" alt="Stars">
    </a>
 
+4. [OffsetAxis: UDF Mesh Reconstruction via Offset-Volume Medial Axis Extraction](https://arxiv.org/abs/2605.15369) - **SIGGRAPH Asia 2026** | input = continuous UDF / neural UDF / Q-MDF / triangle soup / point cloud | extraction = medial axis of an offset volume + dual connectivity of medial-ball clusters | [Schedule](https://sa2026.conference-schedule.org/presentation/?id=papers_1686&sess=sess114)
+
 ### Field-Free DC-Like Structured Representations
 
 1. [TRELLIS.2: Native and Compact Structured Latents for 3D Generation](https://microsoft.github.io/TRELLIS.2/) - **CVPR 2026 Oral** | input = field-free mesh surface x voxel / dual-grid intersections | [Paper](https://arxiv.org/abs/2512.14692) | [Code](https://github.com/microsoft/TRELLIS.2)
